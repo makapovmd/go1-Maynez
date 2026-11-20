@@ -1,3 +1,9 @@
 *
 !Dockerfile
 !entrypoint.sh
+!requirements.lock
+!vendor/unitree_go/**
+!vendor/LICENSE.simulator
+!models/go1/**
+!t2/*.py
+**/__pycache__/
